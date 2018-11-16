@@ -7,7 +7,6 @@ class Song
   end
   
   def initialize(name)
-    @artist = artist
     @name = name
     @@all << name
   end
