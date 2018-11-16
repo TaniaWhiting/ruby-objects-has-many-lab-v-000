@@ -1,4 +1,4 @@
-class Post  
+xclass Post  
   attr_accessor :title, :author
   @@all = []
   
