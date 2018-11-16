@@ -1,4 +1,4 @@
-class Author 
+xclass Author 
   attr_accessor :name
   @@post_count = 0
    
